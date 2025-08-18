@@ -1,16 +1,74 @@
 ## Hi there 👋
 
-<!--
-**Mangalam-17/Mangalam-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mangalam Mishra</h1>
+<h3 align="center">CSE Undergrad | Developer | Tech Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mangalam-17" alt="visitor badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Web Development & DSA projects**  
+- 🌱 I’m learning **React | DS & Algo | Backend Dev**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, LeetCode, GitHub, Career Guidance**
+- 👨‍💻 All my projects are available at [My Portfolio](your-portfolio-url)
+- 📫 How to reach me: [LinkedIn](your-linkedin) | [Twitter](your-twitter) | [Email](your-email)
+- ⚡ Fun fact: I love building digital products and grooving to Spotify!
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/vscode-%231572B6.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangalam-17&show_icons=true&theme=radical" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mangalam-17&theme=radical" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangalam-17&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- Finalist, XYZ Hackathon 2025
+- 400+ questions solved on LeetCode
+- Maintainer of BlogSpace, CozyQuest, and Spotify-Clone
+
+---
+
+## 🌟 Featured Projects
+
+| Project              | Description                                         | Tech      |
+|----------------------|-----------------------------------------------------|-----------|
+| **CozyQuest**        | Airbnb-style replica web app                        | EJS, CSS  |
+| **BlogSpace**        | Modern blogging platform                            | EJS, CSS  |
+| **Spotify-Clone**    | Spotify-like UI using HTML & CSS                    | HTML, CSS |
+| **Simon-Says-Game**  | Interactive Simon game                              | JS, HTML  |
+| **To-Do-List**       | Personal To-Do app                                  | JS, CSS   |
+
+[See all my projects →](https://github.com/Mangalam-17?tab=repositories)
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mangalam-mishra-61a878249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;style=for-the-badge" /></a>
+  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&amp;style=for-the-badge" /></a>
+  <a href="https://twitter.com/mangalam_17"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&amp;style=for-the-badge" /></a>
+</p>

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mangalam Mishra</h1>
+h1 align="center">I'm Mangalam Mishra</h1>
 <h3 align="center">CSE Undergrad | Developer | Tech Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 - 🌱 I’m learning **React | DS & Algo | Backend Dev**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, LeetCode, GitHub, Career Guidance**
 - 👨‍💻 All my projects are available at [My Portfolio](your-portfolio-url)
-- 📫 How to reach me: [LinkedIn](your-linkedin) | [Twitter](your-twitter) | [Email](your-email)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mangalam-mishra-dev/) | [Twitter](https://x.com/mangalam_17) | [Email](mangalamab17@gmail.com)
 - ⚡ Fun fact: I love building digital products and grooving to Spotify!
 
 ---
@@ -43,11 +43,21 @@
 
 ---
 
+## 🧮 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/Mangalam_89/" target="_blank">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=Mangalam_89&theme=dark" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
+
 ## 🏆 Achievements
 
-- Finalist, XYZ Hackathon 2025
-- 400+ questions solved on LeetCode
-- Maintainer of BlogSpace, CozyQuest, and Spotify-Clone
+- 100+ questions solved on LeetCode
+- Maintainer of BlogSpace and CozyQuest
 
 ---
 
@@ -56,10 +66,7 @@
 | Project              | Description                                         | Tech      |
 |----------------------|-----------------------------------------------------|-----------|
 | **CozyQuest**        | Airbnb-style replica web app                        | EJS, CSS  |
-| **BlogSpace**        | Modern blogging platform                            | EJS, CSS  |
-| **Spotify-Clone**    | Spotify-like UI using HTML & CSS                    | HTML, CSS |
-| **Simon-Says-Game**  | Interactive Simon game                              | JS, HTML  |
-| **To-Do-List**       | Personal To-Do app                                  | JS, CSS   |
+| **BlogSpace**        | Modern blogging platform                            | EJS, CSS  |   |
 
 [See all my projects →](https://github.com/Mangalam-17?tab=repositories)
 
@@ -68,7 +75,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/mangalam-mishra-61a878249" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;style=for-the-badge" /></a>
-  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&amp;style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mangalam-mishra-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;style=for-the-badge" /></a>
+  <a href="mailto:mangalamab17@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&amp;style=for-the-badge" /></a>
   <a href="https://twitter.com/mangalam_17"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&amp;style=for-the-badge" /></a>
 </p>

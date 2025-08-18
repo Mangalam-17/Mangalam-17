@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-h1 align="center">I'm Mangalam Mishra</h1>
+<h1 align="center">I'm Mangalam Mishra</h1>
 <h3 align="center">CSE Undergrad | Developer | Tech Enthusiast</h3>
 
 <p align="center">
@@ -29,37 +29,7 @@ h1 align="center">I'm Mangalam Mishra</h1>
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangalam-17&show_icons=true&theme=radical" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mangalam-17&theme=radical" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangalam-17&layout=compact&theme=radical" />
-</p>
-
 ---
-
-## 📈 Stats & Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mangalam-17&show_icons=true&theme=radical" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mangalam-17&theme=radical" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangalam-17&layout=compact&theme=radical" />
-</p>
-<p>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Mangalam_89&theme=dark" alt="LeetCode Stats"/>
-  </a>
-</p>
-
 
 ---
 

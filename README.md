@@ -30,11 +30,9 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-## 🏆 LeetCode Stats  
+## 🏆 LeetCode Progress  
 <p align="center">
-  <a href="https://leetcode.com/u/Mangalam_89/">
-    <img src="https://leetcard.jacoblin.cool/Mangalam_89?theme=light&font=Karma&ext=heatmap" />
-  </a>
+  <img src="https://leetcode-stats-api.herokuapp.com/Mangalam_89?theme=dark" alt="LeetCode stats" />
 </p>
 
 ---

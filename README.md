@@ -23,10 +23,13 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-## 🌟 Projects  
-- 📌 **[MindSpace](https://github.com/Mangalam-17/MindSpace)** – Productivity app for organizing thoughts  
-- 📌 **[BlogSpace](https://github.com/Mangalam-17/BlogSpace)** – Blog platform with authentication & rich editor  
-- 📌 **[CozyQuest](https://github.com/Mangalam-17/CozyQuest)** – E-commerce app with secure checkout  
+### 🌟 Highlighted Projects
+| Project | Description | Repo |
+|---------|-------------|------|
+| 📝 **MindSpace** | Personalized Mental Health Tracker | [Link](https://github.com/Mangalam-17/MindSpace) |
+| 📖 **BlogSpace** | Blog platform with Clean UI | [Link](https://github.com/Mangalam-17/BlogSpace) |
+| 🛒 **CozyQuest** | Air-Bnb Replica with SSR | [Link](https://github.com/Mangalam-17/CozyQuest) |
+
 
 ---
 

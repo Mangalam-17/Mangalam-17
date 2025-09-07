@@ -8,16 +8,16 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 ---
 
 ## 🛠️ TechStack  
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Express](https://skillicons.dev/icons?i=express)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Jest](https://skillicons.dev/icons?i=jest)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 

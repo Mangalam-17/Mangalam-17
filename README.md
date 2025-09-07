@@ -33,7 +33,7 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 ## 🏆 LeetCode Stats  
 <p align="center">
   <a href="https://leetcode.com/u/Mangalam_89/">
-    <img src="https://leetcard.jacoblin.cool/Mangalam_89?theme=light&font=Karma&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Mangalam_89?theme=light&font=Karma" />
   </a>
 </p>
 

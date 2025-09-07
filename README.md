@@ -1,4 +1,4 @@
-# 👨‍💻 Mangalam Mishra
+# 👨‍💻 Mangalam Mishra  
 
 > Aspiring Software Engineer • MERN Stack Developer • Backend Enthusiast  
 
@@ -7,28 +7,44 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-### 🚀 Tech I Work With
+## 🛠️ My TechStack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,java,git,github,vscode" />
-</p>
+  <img src="https://skillicons.dev/icons?i=java" /> 
+  <img src="https://skillicons.dev/icons?i=javascript" /> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" /> 
+  <img src="https://skillicons.dev/icons?i=tailwind" /> 
+  <img src="https://skillicons.dev/icons?i=mongodb" /> 
+  <img src="https://skillicons.dev/icons?i=express" /> 
+  <img src="https://skillicons.dev/icons?i=react" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" /> 
+  <img src="https://skillicons.dev/icons?i=redux" /> 
+  <img src="https://skillicons.dev/icons?i=jest" /> 
+</p>  
 
 ---
 
-### 🌟 Projects
-📌 **[MindSpace](https://github.com/Mangalam-17/MindSpace)** – Productivity app for organizing thoughts  
-📌 **[BlogSpace](https://github.com/Mangalam-17/BlogSpace)** – Blog platform with authentication & rich editor  
-📌 **[CozyQuest](https://github.com/Mangalam-17/CozyQuest)** – E-commerce app with secure checkout  
+## 🌟 Projects  
+- 📌 **[MindSpace](https://github.com/Mangalam-17/MindSpace)** – Productivity app for organizing thoughts  
+- 📌 **[BlogSpace](https://github.com/Mangalam-17/BlogSpace)** – Blog platform with authentication & rich editor  
+- 📌 **[CozyQuest](https://github.com/Mangalam-17/CozyQuest)** – E-commerce app with secure checkout  
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 LeetCode Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangalam-17&layout=compact&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mangalam-17&show_icons=true&theme=radical" height="160"/>
-</p>
+  <a href="https://leetcode.com/u/Mangalam_89/">
+    <img src="https://leetcard.jacoblin.cool/Mangalam_89?theme=dark&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>  
 
 ---
 
-### 📫 Connect With Me
-<a href="mailto:mangalamab17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mangalam-mishra-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+## 📫 Connect With Me  
+<p>
+  <a href="mailto:mangalamab17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mangalam-mishra-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>

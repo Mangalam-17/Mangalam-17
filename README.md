@@ -8,16 +8,16 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 ---
 
 ## 🛠️ TechStack  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-brown?style=flat-square&logo=jest&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Express](https://skillicons.dev/icons?i=express)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Jest](https://skillicons.dev/icons?i=jest)
 
 ---
 

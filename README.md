@@ -3,7 +3,7 @@
 - 👨‍💻 I’m an **aspiring SDE** with a passion for building robust applications using the **MERN Stack**.
 - 🌱 Currently, I'm deepening my knowledge in backend scaling and API design.
 - 💼 I’m actively seeking a **Software Engineering Internship** to gain real-world experience.
-- 📫 You can reach me at **[Your Professional Email]** or connect with me on **[Your LinkedIn Profile Link]**.
+- 📫 You can reach me at **[mangalamab17@gmail.com]** or connect with me on **[https://www.linkedin.com/in/mangalam-mishra-dev]**.
 
 ---
 
@@ -12,27 +12,27 @@
 A showcase of the technologies and tools I'm proficient with.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
 
-### 🌟 Top MERN Stack Projects
-
+### 🌟 Featured Projects
 - **MindSpace** - A dynamic personal productivity app built to help users organize their thoughts and tasks efficiently.
-  - **Repository:** [https://github.com/[YOUR_GITHUB_USERNAME]/MindSpace](https://github.com/[YOUR_GITHUB_USERNAME]/MindSpace)
+  - **Repository:** https://github.com/Mangalam-17/MindSpace
 
 - **BlogSpace** - A full-featured blog platform with rich text editing, user authentication, and a clean, responsive UI.
-  - **Repository:** [https://github.com/[YOUR_GITHUB_USERNAME]/BlogSpace](https://github.com/[YOUR_GITHUB_USERNAME]/BlogSpace)
+  - **Repository:** https://github.com/Mangalam-17/BlogSpace
 
 - **CozyQuest** - An e-commerce platform for home goods, showcasing my ability to manage product data, shopping carts, and a secure checkout process.
-  - **Repository:** [https://github.com/[YOUR_GITHUB_USERNAME]/CozyQuest](https://github.com/[YOUR_GITHUB_USERNAME]/CozyQuest)
+  - **Repository:** https://github.com/Mangalam-17/CozyQuest
+
 
 ---
 

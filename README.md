@@ -7,19 +7,17 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-## 🛠️ My TechStack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" /> 
-  <img src="https://skillicons.dev/icons?i=javascript" /> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" /> 
-  <img src="https://skillicons.dev/icons?i=tailwind" /> 
-  <img src="https://skillicons.dev/icons?i=mongodb" /> 
-  <img src="https://skillicons.dev/icons?i=express" /> 
-  <img src="https://skillicons.dev/icons?i=react" /> 
-  <img src="https://skillicons.dev/icons?i=nodejs" /> 
-  <img src="https://skillicons.dev/icons?i=redux" /> 
-  <img src="https://skillicons.dev/icons?i=jest" /> 
-</p>  
+## 🛠️ TechStack  
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Tailwind](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Express](https://img.icons8.com/ios/50/000000/express-js.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node](https://img.icons8.com/color/48/000000/nodejs.png)
+![Redux](https://img.icons8.com/color/48/000000/redux.png)
+![Jest](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png)
 
 ---
 

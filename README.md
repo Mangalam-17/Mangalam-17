@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1594191374/9140/blob_wave.gif%3F1594191374" width="50" alt="Waving blob emoji" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/half-blooded/half-blooded/main/waving.gif" width="50" alt="Waving blob emoji" />
 <h2>Hey there, I'm Mangalam Mishra!</h2>
 </div>
 
@@ -45,9 +45,3 @@ A showcase of the technologies and tools I'm proficient with.
 
 
 ---
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/badge/Made%20with-GitHub%20Readme%20Stats-1f425f.svg" alt="GitHub Readme Stats" />
-  </a>
-</div>

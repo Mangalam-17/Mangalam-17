@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/half-blooded/half-blooded/main/waving.gif" width="60" alt="Waving blob" />
   <h2>Hey there, I'm Mangalam Mishra! 👋</h2>
 </div>
+
 ---
 
 ### 💻 About Me

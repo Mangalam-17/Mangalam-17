@@ -44,7 +44,7 @@ I am passionate about building **robust**, **scalable applications** and am acti
 ## 📫 Connect With Me  
 <p>
     <a href="mailto:mangalamab17@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a> &nbsp; &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/mangalam-mishra-dev/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

@@ -1,69 +1,54 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"/>
-<h1>Hello there! I'm [Your Name] 👋</h1>
-<h3>A passionate [Your Role/Specialty, e.g., aspiring Software Engineer] from [Your Location].</h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1594191374/9140/blob_wave.gif?1594191374" width="50" alt="Waving blob emoji" />
+  <h2>Hey there, I'm [Your Name]!</h2>
 </div>
 
-🚀 About Me
-🔭 I'm currently seeking a [Internship Title, e.g., Summer Software Engineering Internship] where I can apply my skills in [Your Key Skill 1] and [Your Key Skill 2].
+---
 
-🌱 I'm a quick learner and I'm currently mastering [New Technology You're Learning, e.g., TypeScript, Vue.js, or a specific cloud service] to build more robust and efficient applications.
+### 💻 About Me
 
-👯 I’m looking to collaborate on open-source projects that focus on [e.g., sustainability, education, or accessibility].
+- 👨‍💻 I’m a passionate **[Your Field of Study, e.g., Computer Science]** student with a love for building **[Your Interest, e.g., scalable web applications]**.
+- 🌱 Currently, I'm deepening my knowledge in **[Technology you're learning, e.g., GoLang, Next.js, or cloud architecture]**.
+- 💼 I’m actively seeking a **[Internship Title, e.g., Software Engineering Internship]** to gain real-world experience.
+- 📫 You can reach me at **[Your Professional Email]** or connect with me on **[Your LinkedIn Profile Link]**.
 
-💬 Ask me about anything related to [Your Expertise Area, e.g., web development, data structures, or UI/UX design].
+---
 
-📫 How to reach me: [Your Professional Email Address]
+### 🚀 My Toolkit
 
-<div align="center">
-<h3>✨ Let's connect and build something amazing!</h3>
-</div>
-
-💻 My Professional Toolbox
-<div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,cpp,react,angular,nodejs,mongodb,postgresql,aws,docker,git,figma" />
-</div>
-<br>
-<div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,tailwind,bootstrap,vite,nextjs,vscode,github,gcp,kubernetes" />
-</div>
-
-📊 My GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&hide_title=true&count_private=true&theme=dracula" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[Your-GitHub-Username]&theme=dracula" />
-</div>
-
-🏆 Top Projects
-[Project 1 Name]
-
-Description: A brief, one-sentence description of the project and its core function. Mention the technologies used (e.g., "A full-stack e-commerce site built with React and Node.js.")
-
-Why it matters: Explain what makes this project unique or impactful. (e.g., "It demonstrates my ability to manage user authentication and create a seamless shopping experience.")
-
-Live Demo/Repository Link: [Link to your project's live demo or repository]
-
-[Project 2 Name]
-
-Description: A brief, one-sentence description of the project and its core function.
-
-Why it matters: Explain what makes this project unique or impactful.
-
-Live Demo/Repository Link: [Link to your project's live demo or repository]
-
-[Project 3 Name]
-
-Description: A brief, one-sentence description of the project and its core function.
-
-Why it matters: Explain what makes this project unique or impactful.
-
-Live Demo/Repository Link: [Link to your project's live demo or repository]
+A showcase of the technologies and tools I'm proficient with.
 
 <p align="center">
-<a href="mailto:[Your-Professional-Email-Address]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[Your-LinkedIn-Profile]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+---
+
+### 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&count_private=true&theme=default&hide_rank=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=light" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+- **[Project Name 1]** - A brief, one-sentence description of the project and the main technologies used.
+- **[Project Name 2]** - A brief, one-sentence description of the project and the main technologies used.
+- **[Project Name 3]** - A brief, one-sentence description of the project and the main technologies used.
+
+---
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://img.shields.io/badge/Made%20with-GitHub%20Readme%20Stats-1f425f.svg" alt="GitHub Readme Stats" />
+  </a>
+</div>

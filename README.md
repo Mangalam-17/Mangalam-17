@@ -1,10 +1,20 @@
+<div align="center">
+<img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1594191374/9140/blob_wave.gif%3F1594191374" width="50" alt="Waving blob emoji" />
+<h2>Hey there, I'm Mangalam Mishra!</h2>
+</div>
+
 ### 💻 About Me
 
 - 👨‍💻 I’m an **aspiring SDE** with a passion for building robust applications using the **MERN Stack**.
 - 🌱 Currently, I'm deepening my knowledge in backend scaling and API design.
 - 💼 I’m actively seeking a **Software Engineering Internship** to gain real-world experience.
-- 📫 You can reach me at **[mangalamab17@gmail.com]** or connect with me on **[https://www.linkedin.com/in/mangalam-mishra-dev]**.
-
+- 📫 You can reach me at 
+<a href="mailto:mangalamab17@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/mangalam-mishra-dev/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
 ---
 
 ### 🚀 My Toolkit

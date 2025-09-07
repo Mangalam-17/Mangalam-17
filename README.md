@@ -2,8 +2,7 @@
 
 > Aspiring Software Engineer • MERN Stack Developer • Backend Enthusiast  
 
-I love building **scalable applications**, exploring **system design**, and constantly learning new technologies.  
-Currently seeking an **internship opportunity** to apply my skills and grow as a developer.  
+I am passionate about building **robust**, **scalable applications** and am actively seeking an opportunity to apply my skills. I am eager to accelerate my professional growth by contributing to a **collaborative environment** and learning from experienced professionals.
 
 ---
 
@@ -23,7 +22,7 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-### 🌟 Highlighted Projects
+### 🌟 Featured Projects
 | Project | Description | Repo |
 |---------|-------------|------|
 | 📝 **MindSpace** | Personalized Mental Health Tracker | [Link](https://github.com/Mangalam-17/MindSpace) |

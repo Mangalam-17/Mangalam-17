@@ -30,10 +30,11 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-## 🏆 LeetCode Progress  
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Mangalam_89?theme=dark" alt="LeetCode stats" />
-</p>
+## 🏆 LeetCode  
+📌 [Check out my LeetCode Profile](https://leetcode.com/u/Mangalam_89/)  
+- Solved: 350+ Problems  
+- Contest Rating: ~1600  
+- Focus: Algorithms & Data Structures  
 
 ---
 

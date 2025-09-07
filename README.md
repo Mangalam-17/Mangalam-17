@@ -1,24 +1,28 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/half-blooded/half-blooded/main/waving.gif" width="50" alt="Waving blob emoji" />
-<h2>Hey there, I'm Mangalam Mishra!</h2>
+  <img src="https://raw.githubusercontent.com/half-blooded/half-blooded/main/waving.gif" width="60" alt="Waving blob" />
+  <h2>Hey there, I'm Mangalam Mishra! 👋</h2>
 </div>
 
-### 💻 About Me
+---
 
-- 👨‍💻 I’m an **aspiring SDE** with a passion for building robust applications using the **MERN Stack**.
-- 🌱 Currently, I'm deepening my knowledge in backend scaling and API design.
-- 💼 I’m actively seeking a **Software Engineering Internship** to gain real-world experience.
-- 📫 You can reach me at 
-<a href="mailto:mangalamab17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/mangalam-mishra-dev/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
+### 💻 About Me
+- 👨‍💻 I’m an **aspiring SDE** with a passion for building robust applications using the **MERN Stack**.  
+- 🌱 Currently deepening my knowledge in backend scaling and API design.  
+- 💼 Actively seeking a **Software Engineering Internship** to gain real-world experience.  
+- 📫 Reach me at:  
+
+<p>
+  <a href="mailto:mangalamab17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mangalam-mishra-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 My Toolkit
-
 A showcase of the technologies and tools I'm proficient with.
 
 <p align="center">
@@ -34,14 +38,14 @@ A showcase of the technologies and tools I'm proficient with.
 ---
 
 ### 🌟 Featured Projects
-- **MindSpace** - A dynamic personal productivity app built to help users organize their thoughts and tasks efficiently.
-  - **Repository:** https://github.com/Mangalam-17/MindSpace
 
-- **BlogSpace** - A full-featured blog platform with rich text editing, user authentication, and a clean, responsive UI.
-  - **Repository:** https://github.com/Mangalam-17/BlogSpace
+- **MindSpace** – A dynamic personal productivity app to help users organize thoughts and tasks.  
+  🔗 [Repository](https://github.com/Mangalam-17/MindSpace)  
 
-- **CozyQuest** - An e-commerce platform for home goods, showcasing my ability to manage product data, shopping carts, and a secure checkout process.
-  - **Repository:** https://github.com/Mangalam-17/CozyQuest
+- **BlogSpace** – A full-featured blog platform with rich text editing, authentication, and responsive UI.  
+  🔗 [Repository](https://github.com/Mangalam-17/BlogSpace)  
 
+- **CozyQuest** – An e-commerce platform for home goods with product management, carts, and secure checkout.  
+  🔗 [Repository](https://github.com/Mangalam-17/CozyQuest)  
 
 ---

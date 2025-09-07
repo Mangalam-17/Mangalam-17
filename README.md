@@ -30,13 +30,11 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-## 🏆 LeetCode Profile  
+## 🏆 LeetCode Stats  
 <p align="center">
   <a href="https://leetcode.com/u/Mangalam_89/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://leetcard.jacoblin.cool/Mangalam_89?theme=light&font=Karma&ext=heatmap" />
   </a>
-  <img src="https://img.shields.io/badge/Problems%20Solved-350+-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contest%20Rating-1600+-blue?style=for-the-badge" />
 </p>
 
 ---

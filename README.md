@@ -44,10 +44,10 @@ I am passionate about building **robust**, **scalable applications** and am acti
 ## 📫 Connect With Me  
 <p>
     <a href="mailto:mangalamab17@gmail.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20%" alt="Gmail"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail"/>
     </a> &nbsp; &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/mangalam-mishra-dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20%" alt="LinkedIn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" />
     </a>
 </p>
 

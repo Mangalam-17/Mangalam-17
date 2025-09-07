@@ -8,16 +8,8 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 ---
 
 ## 🛠️ TechStack  
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
-![Jest](https://skillicons.dev/icons?i=jest&theme=dark)
+☕ Java | ⚡ JavaScript | 🎨 Bootstrap | 🌊 Tailwind  
+🍃 MongoDB | 🚂 Express.js | ⚛ React | 🌱 Node.js | 🌀 Redux | ✅ Jest
 
 ---
 

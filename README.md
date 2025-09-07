@@ -44,10 +44,10 @@ I am passionate about building **robust**, **scalable applications** and am acti
 ## 📫 Connect With Me  
 <p>
     <a href="mailto:mangalamab17@gmail.com">
-      <img src="https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" />
     </a> &nbsp; &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/mangalam-mishra-dev/">
-      <img src="https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
     </a>
 </p>
 

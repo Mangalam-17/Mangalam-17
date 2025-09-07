@@ -30,11 +30,12 @@ Currently seeking an **internship opportunity** to apply my skills and grow as a
 
 ---
 
-## 🏆 LeetCode  
-📌 [Check out my LeetCode Profile](https://leetcode.com/u/Mangalam_89/)  
-- Solved: 350+ Problems  
-- Contest Rating: ~1600  
-- Focus: Algorithms & Data Structures  
+## 🏆 LeetCode Stats  
+<p align="center">
+  <a href="https://leetcode.com/u/Mangalam_89/">
+    <img src="https://leetcard.jacoblin.cool/Mangalam_89?theme=light&font=Karma&ext=heatmap" />
+  </a>
+</p>
 
 ---
 

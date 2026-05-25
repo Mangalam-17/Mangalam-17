@@ -26,7 +26,7 @@ I am passionate about building **robust**, **scalable applications** and am acti
 | Project | Description | Repo |
 |---------|-------------|------|
 | **Shortlisto** | Smart Recruitment Platform | [Link](https://shortlisto.vercel.app/) |
-| **InterviewMate** | AI Powered Interview preparation app | [Link](https://github.com/Mangalam-17/InterviewMate) |
+| **InterviewMate** | AI Powered Interview preparation app | [Link](https://interview-mate-frontend.vercel.app/) |
 | **MindSpace** | Personalized Mental Health Tracker | [Link](https://github.com/Mangalam-17/MindSpace) |
 | **BlogSpace** | Blog platform with Clean UI | [Link](https://github.com/Mangalam-17/BlogSpace) |
 
